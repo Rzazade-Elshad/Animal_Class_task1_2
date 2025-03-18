@@ -1,0 +1,14 @@
+C:\Users\rzaza\source\repos\AnimalClass\AnimalClass\bin\Debug\net8.0\AnimalClass.exe
+C:\Users\rzaza\source\repos\AnimalClass\AnimalClass\bin\Debug\net8.0\AnimalClass.deps.json
+C:\Users\rzaza\source\repos\AnimalClass\AnimalClass\bin\Debug\net8.0\AnimalClass.runtimeconfig.json
+C:\Users\rzaza\source\repos\AnimalClass\AnimalClass\bin\Debug\net8.0\AnimalClass.dll
+C:\Users\rzaza\source\repos\AnimalClass\AnimalClass\bin\Debug\net8.0\AnimalClass.pdb
+C:\Users\rzaza\source\repos\AnimalClass\AnimalClass\obj\Debug\net8.0\AnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzaza\source\repos\AnimalClass\AnimalClass\obj\Debug\net8.0\AnimalClass.AssemblyInfoInputs.cache
+C:\Users\rzaza\source\repos\AnimalClass\AnimalClass\obj\Debug\net8.0\AnimalClass.AssemblyInfo.cs
+C:\Users\rzaza\source\repos\AnimalClass\AnimalClass\obj\Debug\net8.0\AnimalClass.csproj.CoreCompileInputs.cache
+C:\Users\rzaza\source\repos\AnimalClass\AnimalClass\obj\Debug\net8.0\AnimalClass.dll
+C:\Users\rzaza\source\repos\AnimalClass\AnimalClass\obj\Debug\net8.0\refint\AnimalClass.dll
+C:\Users\rzaza\source\repos\AnimalClass\AnimalClass\obj\Debug\net8.0\AnimalClass.pdb
+C:\Users\rzaza\source\repos\AnimalClass\AnimalClass\obj\Debug\net8.0\AnimalClass.genruntimeconfig.cache
+C:\Users\rzaza\source\repos\AnimalClass\AnimalClass\obj\Debug\net8.0\ref\AnimalClass.dll

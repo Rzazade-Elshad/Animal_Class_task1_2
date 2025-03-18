@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rzaza\\source\\repos\\AnimalClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56D3BF-C3F8-4538-8BD3-EC358BF76A66}|AnimalClass\\AnimalClass.csproj|c:\\users\\rzaza\\source\\repos\\animalclass\\animalclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD56D3BF-C3F8-4538-8BD3-EC358BF76A66}|AnimalClass\\AnimalClass.csproj|solutionrelative:animalclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56D3BF-C3F8-4538-8BD3-EC358BF76A66}|AnimalClass\\AnimalClass.csproj|c:\\users\\rzaza\\source\\repos\\animalclass\\animalclass\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD56D3BF-C3F8-4538-8BD3-EC358BF76A66}|AnimalClass\\AnimalClass.csproj|solutionrelative:animalclass\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56D3BF-C3F8-4538-8BD3-EC358BF76A66}|AnimalClass\\AnimalClass.csproj|c:\\users\\rzaza\\source\\repos\\animalclass\\animalclass\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD56D3BF-C3F8-4538-8BD3-EC358BF76A66}|AnimalClass\\AnimalClass.csproj|solutionrelative:animalclass\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56D3BF-C3F8-4538-8BD3-EC358BF76A66}|AnimalClass\\AnimalClass.csproj|c:\\users\\rzaza\\source\\repos\\animalclass\\animalclass\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD56D3BF-C3F8-4538-8BD3-EC358BF76A66}|AnimalClass\\AnimalClass.csproj|solutionrelative:animalclass\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56D3BF-C3F8-4538-8BD3-EC358BF76A66}|AnimalClass\\AnimalClass.csproj|c:\\users\\rzaza\\source\\repos\\animalclass\\animalclass\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD56D3BF-C3F8-4538-8BD3-EC358BF76A66}|AnimalClass\\AnimalClass.csproj|solutionrelative:animalclass\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\rzaza\\source\\repos\\AnimalClass\\AnimalClass\\Bird.cs",
+              "RelativeDocumentMoniker": "AnimalClass\\Bird.cs",
+              "ToolTip": "C:\\Users\\rzaza\\source\\repos\\AnimalClass\\AnimalClass\\Bird.cs",
+              "RelativeToolTip": "AnimalClass\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:59:57.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bear.cs",
+              "DocumentMoniker": "C:\\Users\\rzaza\\source\\repos\\AnimalClass\\AnimalClass\\Bear.cs",
+              "RelativeDocumentMoniker": "AnimalClass\\Bear.cs",
+              "ToolTip": "C:\\Users\\rzaza\\source\\repos\\AnimalClass\\AnimalClass\\Bear.cs",
+              "RelativeToolTip": "AnimalClass\\Bear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:59:35.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\rzaza\\source\\repos\\AnimalClass\\AnimalClass\\Dog.cs",
+              "RelativeDocumentMoniker": "AnimalClass\\Dog.cs",
+              "ToolTip": "C:\\Users\\rzaza\\source\\repos\\AnimalClass\\AnimalClass\\Dog.cs",
+              "RelativeToolTip": "AnimalClass\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:59:12.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\rzaza\\source\\repos\\AnimalClass\\AnimalClass\\Animal.cs",
+              "RelativeDocumentMoniker": "AnimalClass\\Animal.cs",
+              "ToolTip": "C:\\Users\\rzaza\\source\\repos\\AnimalClass\\AnimalClass\\Animal.cs",
+              "RelativeToolTip": "AnimalClass\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:55:41.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rzaza\\source\\repos\\AnimalClass\\AnimalClass\\Program.cs",
+              "RelativeDocumentMoniker": "AnimalClass\\Program.cs",
+              "ToolTip": "C:\\Users\\rzaza\\source\\repos\\AnimalClass\\AnimalClass\\Program.cs*",
+              "RelativeToolTip": "AnimalClass\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:55:02.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
